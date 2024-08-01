@@ -2,7 +2,7 @@ import Link from 'next/link'
 
 /*
 The top link with anchor tags downloads the wave.jpg file to local storage as expected with the use of the 'download' attribute.
-The second link with Link component only navigates the the image, and does download it, despite also having the 'download' attribute.
+The second link using a Link component only navigates to the image, and doesn't download it, despite also having the 'download' attribute.
 */
 
 export default function Page() {
