@@ -1,4 +1,4 @@
-Next.js `<a>` vs `<Link>`
+# Next.js `<a>` vs `<Link>`
 
 A simple web page to demonstate the appraent differences between `<a>` tags and next `<Link>` components.
 
